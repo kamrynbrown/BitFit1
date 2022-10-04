@@ -12,7 +12,8 @@
         android:layout_height="match_parent"
         tools:text="Apple"
         android:gravity="left|center_vertical"
-        android:layout_weight="1"/>
+        android:layout_weight="1"
+        android:textSize="25dp"/>
 
     <TextView
         android:id="@+id/Calories"
@@ -20,7 +21,8 @@
         android:layout_height="match_parent"
         tools:text="320 calories"
         android:gravity="right|center_vertical"
-        android:layout_weight="1"/>
+        android:layout_weight="1"
+        android:textSize="25dp"/>
 
 
 </androidx.appcompat.widget.LinearLayoutCompat>
