@@ -3,7 +3,7 @@
 
 Submitted by: Kamryn Brown
 
-BitFit1 is a health metrics app that allows users to track ... [TODO] 
+BitFit1 is a health metrics app that allows users to track ... Nutrition and Calories
 
 Time spent: 24 hours spent in total
 
@@ -12,7 +12,7 @@ Time spent: 24 hours spent in total
 The following **required** functionality is completed:
 
 - [x] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): `[Nutrition/Calories]`
+  - Chosen metric(s): `Nutrition/Calories`
 - [x] **There is a "create entry" UI that prompts users to make their daily entry**
 - [x] **New entries are saved in a database and then updated in the RecyclerView**
 - [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
