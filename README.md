@@ -1,9 +1,8 @@
-# BitFit1
-# Android Project 5 - BitFit1
+# Android Project 6 - BitFit2
 
 Submitted by: Kamryn Brown
 
-BitFit1 is a health metrics app that allows users to track ... Nutrition and Calories
+BitFit2 is a health metrics app that allows users to track ... food and calories 
 
 Time spent: 24 hours spent in total
 
@@ -11,18 +10,14 @@ Time spent: 24 hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): `Nutrition/Calories`
-- [x] **There is a "create entry" UI that prompts users to make their daily entry**
-- [x] **New entries are saved in a database and then updated in the RecyclerView**
-- [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
- 
+- [x] **Use at least 2 Fragments**
+- [x] **Create a new dashboard fragment where users can see a summary of their entered data**
+- [x] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
+
 The following **optional** features are implemented:
 
-- [ ] **Create a UI for tracking averages and trends in metrics**
-- [ ] **Improve and customize the user interface through styling and coloring**
-- [ ] **Implement orientation responsivity**
-- [ ] **Add a daily photo feature**
+- [ ] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
+- [ ] **Implement daily notifications to prompt users to fill in their data**
 
 The following **additional** features are implemented:
 
@@ -31,8 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://submissions.us-east-1.linodeobjects.com/and102/Ywrj8UBb.gif
-
+https://www.kapwing.com/videos/6344f58d1850050089b7693a
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -45,6 +39,7 @@ GIF created with ... Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+I'm not totally sure if I did the assignment correctly. I'm not sure if the dashboard counts as one of the two fragments. I used the Dashboard screen and the Add A Food screen as the two fragments that were required.
 
 ## License
 
