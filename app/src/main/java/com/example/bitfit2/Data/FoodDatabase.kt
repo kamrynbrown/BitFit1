@@ -1,8 +1,7 @@
-package com.example.bitfit1.Data
+package com.example.bitfit2.Data
 
 import android.content.Context
 import androidx.room.Database
-import androidx.room.Entity
 import androidx.room.Room
 import androidx.room.RoomDatabase
 

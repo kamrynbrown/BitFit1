@@ -1,4 +1,4 @@
-package com.example.bitfit1.Data
+package com.example.bitfit2.Data
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

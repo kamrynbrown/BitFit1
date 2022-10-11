@@ -1,15 +1,12 @@
-package com.example.bitfit1
+package com.example.bitfit2
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ListAdapter
 import android.widget.TextView
-import androidx.appcompat.view.menu.MenuView
-import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
-import com.example.bitfit1.Data.Food
-import com.example.bitfit1.FoodAdapter.*
+import com.example.bitfit2.Data.Food
+import com.example.bitfit2.FoodAdapter.*
 
 
 class FoodAdapter(private val list:List<Food>):RecyclerView.Adapter<FoodViewHolder>() {
